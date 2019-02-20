@@ -5,8 +5,13 @@ Output: 8
 */
 
 export const addOdd= (arr) => {
-	for (x in arr):
-		if(x%2!=0):
-			sum+=x;
+   var sum =0;
+	for (i=0;i<arr.length;i++){
+      x= arr[i];
+		if(x%2!=0){
+          sum= sum+x;
+        }
+			
+    }
     return sum;
 };
