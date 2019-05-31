@@ -6,7 +6,7 @@ using namespace std;
 
 int  main() {
     int n;
-    cout << "Enter the numnber of elements in array\n";
+    cout << "Enter the number of elements in array\n";
     cin >> n;
     int arr[n];
     int sum = 0;
