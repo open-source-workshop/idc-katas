@@ -1,0 +1,1 @@
+/* Write a function which takes a number as input and checks if the sum of digits at even and odd digits are equal */
